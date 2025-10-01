@@ -1,4 +1,4 @@
-# 🎥 Convert to H.264 (GPU) – Right-Click Context Menu Tool
+# 🎥 Convert to H.264 (GPU) – Right-Click Context Menu Tool (Rename file if filename is long)
 
 ![Banner](https://github.com/belugacrx/H.264-Converter/blob/9cbddb5166ce20b9deab0a0b9e495b539e04b9fc/banner-git.png)
 
